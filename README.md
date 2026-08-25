@@ -762,6 +762,7 @@ The IRS presumes a profit motive if the activity shows a profit in **3 of 5 cons
 ## See Also
 
 - **[TaxLogic Self-Employed Tax Calculator](https://taxlogic.cc/tools/tax/self-employed)** — Estimate your SE tax, QBI deduction, and quarterly payments interactively. Enter your Schedule C revenue and expenses to see a full tax breakdown.
+- **[toolkitlabs-invoice](https://github.com/YtinuMoc/toolkitlabs-invoice)** — Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-1099-tax-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ---
 
