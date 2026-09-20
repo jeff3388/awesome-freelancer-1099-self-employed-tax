@@ -761,6 +761,7 @@ The IRS presumes a profit motive if the activity shows a profit in **3 of 5 cons
 
 ## See Also
 
+- **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** — Free browser freelance invoice, expense log, timesheet, and weekly status report tools (MIT). Helpful for organizing billable hours and receipts before tax season.
 - **[TaxLogic Self-Employed Tax Calculator](https://taxlogic.cc/tools/tax/self-employed)** — Estimate your SE tax, QBI deduction, and quarterly payments interactively. Enter your Schedule C revenue and expenses to see a full tax breakdown.
 
 ---
