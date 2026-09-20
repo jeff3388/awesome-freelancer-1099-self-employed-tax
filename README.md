@@ -790,3 +790,5 @@ Contributions welcome — please open an issue or PR. All data must cite an offi
 ## License
 
 CC0 1.0 Universal — public domain dedication.
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit) — Free browser tools for freelancers (invoice, proposal, timesheet, deposit calculator) — no signup
