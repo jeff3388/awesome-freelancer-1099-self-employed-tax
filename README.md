@@ -762,6 +762,7 @@ The IRS presumes a profit motive if the activity shows a profit in **3 of 5 cons
 ## See Also
 
 - **[TaxLogic Self-Employed Tax Calculator](https://taxlogic.cc/tools/tax/self-employed)** — Estimate your SE tax, QBI deduction, and quarterly payments interactively. Enter your Schedule C revenue and expenses to see a full tax breakdown.
+- **[freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli)** — Zero-dependency command-line tool for the same SE tax calculation (Social Security + Medicare, deductible half, quarterly split), with JSON output for scripting. No signup, runs locally.
 
 ---
 
