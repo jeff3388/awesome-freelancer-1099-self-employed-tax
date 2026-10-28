@@ -762,6 +762,7 @@ The IRS presumes a profit motive if the activity shows a profit in **3 of 5 cons
 ## See Also
 
 - **[TaxLogic Self-Employed Tax Calculator](https://taxlogic.cc/tools/tax/self-employed)** — Estimate your SE tax, QBI deduction, and quarterly payments interactively. Enter your Schedule C revenue and expenses to see a full tax breakdown.
+- **[Freelancer Invoice Aging Sample](https://github.com/SirMem/freelancer-invoice-aging-sample)** — Free MIT spreadsheet (Current / 1–30 / 31–60 / 60+) to track receivables before quarterly estimated payments; cash you haven't collected isn't Schedule C income yet.
 
 ---
 
